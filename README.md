@@ -31,23 +31,23 @@ Built with modern front-end techniques including routing, API calls, and compone
 
 * 📡 Fetching external data using RESTful APIs
 
-🔄 Managing state and props across React components
+* 🔄 Managing state and props across React components
 
-📁 Using react-router-dom for client-side routing
+* 📁 Using react-router-dom for client-side routing
 
-🧹 Keeping code modular and reusable
+* 🧹 Keeping code modular and reusable
 
-📱 Building responsive UIs with basic CSS
+* 📱 Building responsive UIs with basic CSS
 
 ---
 
-## 🔮 Planned Features
+Coming Soon
 
-🎥 Detailed movie info (release date, genres, runtime, synopsis)
+* 🎥 Detailed movie info (release date, genres, runtime, synopsis)
 
-▶️ Embedded trailers or links to YouTube
+* ▶️ Embedded trailers or links to YouTube
 
-📺 “Watch Later” list alongside favourites
+* 📺 “Watch Later” list alongside favourites
 
 ---
 
