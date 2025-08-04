@@ -8,10 +8,9 @@ Built with modern front-end techniques including routing, API calls, and compone
 
 ## ✨ Features
 
-- 🔎 **Search** for movies using TMDB’s real-time API  
-- ❤️ **Add/remove** movies from a personal favourites list  
-- 🔗 **Navigate** between pages using `react-router-dom` routes  
-- 🎨 Clean, responsive UI built entirely with React
+* 🔎 **Search** for movies using TMDB’s real-time API  
+* ❤️ **Add/remove** movies from a personal favourites list  
+* 🔗 **Navigate** between pages using `react-router-dom` routes  
 
 ---
 
@@ -29,7 +28,7 @@ Built with modern front-end techniques including routing, API calls, and compone
 
 ## 🧠 Skills Demonstrated
 
-* 📡 Fetching external data using RESTful APIs
+* 📡 Fetching external data using APIs
 
 * 🔄 Managing state and props across React components
 
